@@ -1,4 +1,4 @@
-# 
+# updated bybit trading bot Executor | risk-management + slippage-control offers the most advanced bybit trading bot, with risk-management and slippage-control. Ideal for
 
 
 
